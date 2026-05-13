@@ -1,6 +1,6 @@
 {
   "name": "sant-erp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SANT ERP Dashboard — Valkyron Group. Military-grade paint operations center.",
   "private": true,
   "type": "module",
